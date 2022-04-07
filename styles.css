@@ -3,5 +3,22 @@
 }
 
 body{
-    background-color: aquamarine;
+    background-color: #d9e4e9;
+}
+
+.container{
+    background-color: #9ccce3;
+    padding: 30px 20px;
+    width: 25%;
+    height: 25%;
+    margin: 100px auto;
+    border-radius: 30px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
 }
